@@ -307,15 +307,15 @@ Through this project, I am developing practical experience with:
 
 **Main Dashboard:** Shows the total budget, spending, remaining balance, and category breakdown.
 
-![Main Dashboard](/Project2/mainPage.png)
+![Main Dashboard](/mainPage.png)
 
 **Expense Management:** Shows the expense list, filtering options, and recorded transactions.
 
-![Expense Management](/Project2/ExpenseRecords.png)
+![Expense Management](/ExpenseRecords.png)
 
 **Financial Reports:** Shows the report generation interface and downloadable Excel reports.
 
-![Financial Reports](/Project2/reports.png)
+![Financial Reports](/reports.png)
 
 ## 11. Future Improvements
 
